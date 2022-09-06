@@ -1,0 +1,27 @@
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/bin/Debug/netcoreapp3.1/TaskFor
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/bin/Debug/netcoreapp3.1/TaskFor.deps.json
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/bin/Debug/netcoreapp3.1/TaskFor.runtimeconfig.json
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/bin/Debug/netcoreapp3.1/TaskFor.runtimeconfig.dev.json
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/bin/Debug/netcoreapp3.1/TaskFor.dll
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/bin/Debug/netcoreapp3.1/TaskFor.pdb
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/obj/Debug/netcoreapp3.1/TaskFor.csproj.AssemblyReference.cache
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/obj/Debug/netcoreapp3.1/TaskFor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/obj/Debug/netcoreapp3.1/TaskFor.AssemblyInfoInputs.cache
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/obj/Debug/netcoreapp3.1/TaskFor.AssemblyInfo.cs
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/obj/Debug/netcoreapp3.1/TaskFor.csproj.CoreCompileInputs.cache
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/obj/Debug/netcoreapp3.1/TaskFor.dll
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/obj/Debug/netcoreapp3.1/TaskFor.pdb
+/Users/malinatrash/Library/Mobile Documents/com~apple~CloudDocs/develop/Sharp/Lab1/TaskFor/obj/Debug/netcoreapp3.1/TaskFor.genruntimeconfig.cache
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\obj\Debug\netcoreapp3.1\TaskFor.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\obj\Debug\netcoreapp3.1\TaskFor.AssemblyInfoInputs.cache
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\obj\Debug\netcoreapp3.1\TaskFor.AssemblyInfo.cs
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\obj\Debug\netcoreapp3.1\TaskFor.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\obj\Debug\netcoreapp3.1\TaskFor.dll
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\obj\Debug\netcoreapp3.1\TaskFor.pdb
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\bin\Debug\netcoreapp3.1\TaskFor.exe
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\bin\Debug\netcoreapp3.1\TaskFor.deps.json
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\bin\Debug\netcoreapp3.1\TaskFor.runtimeconfig.json
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\bin\Debug\netcoreapp3.1\TaskFor.runtimeconfig.dev.json
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\bin\Debug\netcoreapp3.1\TaskFor.dll
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\bin\Debug\netcoreapp3.1\TaskFor.pdb
+\\Mac\iCloud\develop\Sharp\Lab1\TaskFor\obj\Debug\netcoreapp3.1\TaskFor.genruntimeconfig.cache
